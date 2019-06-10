@@ -8,4 +8,7 @@ after you extract the rar file:
 4. use the hack :)
 
 
+#turn off any anti virus, so the hack tool can work
+
+
 #connect your phone to your pc first
