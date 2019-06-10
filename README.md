@@ -6,3 +6,6 @@ after you extract the rar file:
 2. if a command prompt appeared, don't close it
 3. wait for the hack tool to install in your system
 4. use the hack :)
+
+
+#connect your phone to your pc first
